@@ -44,6 +44,6 @@
         "php-vcr": {
             "type": "git",
             "url": "git@github.com:Continued-llc/php-vcr.git"
-        },
+        }
     }
 }
