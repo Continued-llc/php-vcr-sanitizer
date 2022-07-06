@@ -1,5 +1,5 @@
 {
-    "name": "allejo/php-vcr-sanitizer",
+    "name": "continued-llc/php-vcr-sanitizer",
     "description": "Bring privacy to php-vcr by excluding API keys, passwords, and credentials from your recordings",
     "type": "library",
     "require": {
